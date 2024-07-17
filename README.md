@@ -2,14 +2,13 @@
 ### Man of God
 
 1. Theories describe experience
-2. Theories have axioms
-3. An axiom is that which is taken for granted
-4. There are foundational axioms
-5. And directional axioms
-6. Without foundation a theory is groundless
-7. Without direction a theory is pointless
-8. There are natural axioms. A state of facts is true by virtue of the theory
-9. Base point
+2. An axiom is that which is taken for granted
+3. There are foundational axioms
+4. And directional axioms
+5. Without foundation a theory is groundless
+6. Without direction a theory is pointless
+7. Natural axioms are true state of facts independent of the theory
+8. Base point
 	1. Base \<–\> Natural and foundational axioms
 	2. Point \<–\> Directional axioms
 
