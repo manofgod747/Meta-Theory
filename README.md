@@ -21,7 +21,7 @@
 * Living beings
 
 **Foundational axiom**
-* Output is the rate of natural resource consumption
+* Output is the rate of natural resource consumption by living beings
 
 ### Point
 **Directional axiom**
