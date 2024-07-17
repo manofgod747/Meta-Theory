@@ -13,15 +13,12 @@
 ## Example
 
 **Natural Axiom**
-
-Natural resources
-Living beings
+* Natural resources
+* Living beings
 
 **Foundational axiom**
-
-Output is the rate of natural resource consumption
+* Output is the rate of natural resource consumption
 
 **Directional axiom**
-
-Minimize output
+* Minimize output
 
