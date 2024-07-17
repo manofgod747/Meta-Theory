@@ -8,22 +8,17 @@
 5. Without foundation a theory is groundless
 6. Without direction a theory is pointless
 7. Natural axioms are true state of facts independent of the theory
-8. Base point
-	1. Base \<–\> Natural and foundational axioms
-	2. Point \<–\> Directional axioms
 
 ## Example
 
-### Base
-**Natural Axiom**
+***Natural Axiom**
 * Natural resources
 * Living beings
 
-**Foundational axiom**
+***Foundational axiom**
 * Output is the rate of natural resource consumption by living beings
 
-### Point
-**Directional axiom**
+***Directional axiom**
 * Minimize output
 
 
