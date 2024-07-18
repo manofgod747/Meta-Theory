@@ -1,8 +1,8 @@
 # Meta Theory
 ### Man of God
 
-1. Theories describe experience
-2. An axiom is that which is taken for granted
+1. Theory describes experience
+2. Axiom is what is given
 3. There are foundational axioms
 4. And directional axioms
 5. Without foundation a theory is groundless
@@ -24,4 +24,4 @@
 * Minimize output
 
 **Theorem**
-Minimize living beings
+* Minimize living beings satisfies minimize output
