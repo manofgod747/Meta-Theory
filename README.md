@@ -25,3 +25,6 @@
 
 **Theorem**
 * Minimize living beings satisfies minimize output
+
+***Foundational axiom***
+* Preserve life
