@@ -11,6 +11,8 @@
 
 ## Example
 
+### Economic Theory
+
 ***Natural Axiom***
 * Natural resources
 * Living beings
@@ -21,4 +23,5 @@
 ***Directional axiom***
 * Minimize output
 
-
+**Theorem**
+Minimize living beings
