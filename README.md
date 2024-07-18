@@ -28,3 +28,7 @@
 
 ***Foundational axiom***
 * Preserve life
+
+## Question
+
+What needs to be the case to infer theorems?
