@@ -1,5 +1,5 @@
 # Meta Theory
-### Man of God
+### Sason
 
 1. Theory describes experience
 2. Axiom is what is given
